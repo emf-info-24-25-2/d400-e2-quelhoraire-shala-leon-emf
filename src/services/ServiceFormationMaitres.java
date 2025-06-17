@@ -10,7 +10,7 @@ public class ServiceFormationMaitres {
     }
 
     public boolean tousModulesCouverts(Professeur[] profs, ModuleInfo[] modules) {
-
+        // pour forvcer commit FRI
     }
 
 }
